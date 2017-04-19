@@ -5,8 +5,8 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "Test Page"
      url: https://fisiceoir.github.io/test-page/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+   - title: "Tags"
+     url: /tag/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
