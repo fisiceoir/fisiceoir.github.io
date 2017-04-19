@@ -1,9 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  #save below for an example for later coding
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+   - title: "Test Page"
+     url: https://fisiceoir.github.io/Test-Page/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
