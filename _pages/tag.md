@@ -5,6 +5,7 @@ title: "Tag Index"
 last_modified_at: 2016-02-08T16:17:58-05:00
 excerpt: "An archive of posts sorted by tag frequency."
 share: false
+author_profile: true
 ---
 
 {{ page.excerpt | markdownify }}
