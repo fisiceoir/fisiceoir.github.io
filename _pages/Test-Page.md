@@ -1,5 +1,5 @@
 ---
-layout: page
+permalink: /test-page/
 title: "Test Page"
 date: 2017-04-19
 tags: [Test, TEST]
