@@ -1,8 +1,7 @@
 ---
-layout: posts
 title: "Test Post"
 date: 2017-04-19 12:59:56
-tags: test Test
+tags: [test, Test]
 categories: test TEST
 ---
 
